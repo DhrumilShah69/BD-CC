@@ -1,3 +1,7 @@
+
 tensorflow
 streamlit
+pandas
+numpy
+
 
